@@ -1,0 +1,43 @@
+body{
+	font-family: 'Raleway', sans-serif;
+	background: url(../img/adult-brunette-hand-2474073.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 20;
+}
+.p{
+	margin: 0px auto;
+	font-size: 26px;
+	color: #3A433E;
+}    
+.ip{
+	font-size: 46px;
+    padding: 29px;
+    margin: 0 auto;
+    color: #C6C8BA;
+}
+
+.sign-up-section{
+	    padding: 17px;
+    margin: 9px;
+    font-size: 17px;
+    border-radius: 10px 10px;
+    .background-color:#FF6612; 
+
+}
+.bod{
+	padding: 16px;
+	border-radius: 10px 10px;
+}
+.btn{
+	padding: 16px 53px;
+    margin: 17px 2px;
+    background-color: #393536;
+    color: #ffff;
+    border-radius: 3%;
+    font-size: 22px;
+    text-transform: uppercase;
+    border-radius: 15px 15px;
+}
+.btn:hover{
+    	cursor:wait;
